@@ -1,1 +1,1 @@
-Hexlet Curry
+Main text
