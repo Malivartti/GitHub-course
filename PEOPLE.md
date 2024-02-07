@@ -1,1 +1,1 @@
-Hexlet Curry
+Conflict
